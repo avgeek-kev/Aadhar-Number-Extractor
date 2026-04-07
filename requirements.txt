@@ -1,0 +1,9 @@
+pytesseract
+opencv-python
+pdf2image
+pillow
+streamlit
+rapidocr-onnxruntime
+pypdfium2
+fastapi
+python-multipart
