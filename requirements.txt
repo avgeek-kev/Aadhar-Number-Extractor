@@ -7,3 +7,6 @@ rapidocr-onnxruntime
 pypdfium2
 fastapi
 python-multipart
+requests
+PyJWT
+cryptography
